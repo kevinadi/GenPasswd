@@ -1,4 +1,4 @@
-# genpasswd
+# GenPasswd
 
 Description
 -----------
